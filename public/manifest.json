@@ -1,0 +1,13 @@
+{
+    "short_name": "Tracker",
+    "name": "Income tracker",
+    "icons": [{
+        "src": "./images/logo.png",
+        "type": "image/png",
+        "sizes": "48x48"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#165f40"
+}
